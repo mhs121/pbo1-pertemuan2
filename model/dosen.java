@@ -1,6 +1,6 @@
 package model;
 
-public class Dosen{
+public class dosen{
 	public static void tampilanInfo(){
 		System.out.println();
 		System.out.println("===== Data Dosen =============");
